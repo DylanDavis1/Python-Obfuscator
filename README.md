@@ -1,6 +1,6 @@
 # Python Obfuscator
 
-<img src="logo.jpg" width="300" height="300" />
+<img src="logo.png" width="300" height="300" />
 
 ## Introduction
 Welcome to the RowdyHacks 2024 Team Coderunners Python Obfuscator project! This tool is designed by students for students to learn cybersecurity concepts related to code obfuscation. Whether you're a beginner or an experienced learner, this project aims to provide a simple way into obfuscation. 
